@@ -4,20 +4,7 @@ Bem-vindo!
 
 ## 📝 Descrição do Projeto
 
-Neste projeto, você assume o papel de analista de dados e trabalha com diversas fontes de dados para responder perguntas cruciais sobre o desempenho global da empresa. Os dados estão disponíveis em diferentes formatos e sistemas
-
-- **Bancos de dados relacionais**: MySQL/SQL Server
-- **Bancos NoSQL**: MongoDB
-- **Arquivos CSV e Excel**: Representando dados históricos e de relatórios de vendas
-
-### Objetivos principais:
-1. **Integração de dados**: Consolidar informações de diferentes fontes.
-2. **Análise exploratória**: Identificar padrões e tendências nas vendas.
-3. **Geração de insights**: Responder a perguntas como:
-   - Quais são os produtos mais vendidos?
-   - Quais regiões geraram maior receita?
-   - Qual o desempenho de vendas ao longo do tempo?
-4. **Visualização**: Criar gráficos e dashboards que facilitem a interpretação dos dados.
+Neste projeto, você assume o papel de analista de dados e trabalha com diversas fontes de dados para responder perguntas cruciais sobre o desempenho global da empresa. Os dados estão disponíveis em diferentes formatos e sistemas.
 
 ---
 
