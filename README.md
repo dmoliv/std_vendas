@@ -23,24 +23,24 @@ Neste projeto, você assume o papel de analista de dados e trabalha com diversas
 
 ## 📁 Estrutura do Repositório
 
-'''plaintext
-├── data/                     # Diretório de dados brutos
-│   ├── mysql/                # Schemas de criação das tabelas e insert dos dados
-│   ├── mongo/                # Exemplo de documentos NoSQL
-│   ├── csv_excel/            # Arquivos CSV e Excel
-├── notebooks/                # Notebooks Jupyter para análise
-├── scripts/                  # Scripts Python de ETL e análise
-├── outputs/                  # Relatórios e gráficos gerados
-├── README.md                 # Descrição do projeto
-'''
+
+**├── data/**                     # Diretório de dados brutos
+**│   ├── mysql/**                # Schemas de criação das tabelas e insert dos dados
+**│   ├── mongo/**                # Exemplo de documentos NoSQL
+**│   ├── csv_excel/**            # Arquivos CSV e Excel
+**├── notebooks/**                # Notebooks Jupyter para análise
+**├── scripts/**                  # Scripts Python de ETL e análise
+**├── outputs/**                  # Relatórios e gráficos gerados
+**├── README.md**                 # Descrição do projeto
+
 
 # 🚀 Como Executar o Projeto
 Clone o repositório:
 
-'''bash
+```bash
 git clone git@github.com:dmoliv/std_vendas.git
 cd std_vendas
-'''
+```
 
 
 # 📊 Exemplos de Insights
