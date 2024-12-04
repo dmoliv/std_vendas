@@ -35,4 +35,8 @@ cd std_vendas
 ## SQL
 
 ### Produto mais vendido por região
-<img src="https://cvws.icloud-content.com/B/AdhHt-mQOMEJtT8M0QZdtQzXzqIwAQ0WshAZKr86AFy00tDr8Lxtu1nd/vendas_por_regiao.png?o=ArkS68WI_2J1JxfoPtE08WNYgH7vvHiVqL4xqmcWjkF6&v=1&x=3&a=CAog8h4lQibqXUWCpBvJ5mxUUN_RXgDphPYg_687jnPf6JUSbxD94q6WuTIY_b-KmLkyIgEAUgTXzqIwWgRtu1ndaicCkGjSpmo9ZHB3sVo5LLLrnj5VJxySE7Kxr7dXNpWb7iQOpT7xGp1yJ8hX4nySGAoWyoEj68iTspf1xtHFf1pXj_igXvyqV8XNpzRUMvJRfQ&e=1733338243&fl=&r=50db1f1a-eeaf-4660-b249-d7e97fcb5e96-1&k=K_VlRgMSpW6CaNOP875cHQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=0lWt0aIx5ZGvHcpMp5ebyGgd0KY&cd=i" alt="Produto mais vendido por região">
+<img src="https://cvws.icloud-content.com/B/AdhHt-mQOMEJtT8M0QZdtQzXzqIwAQ0WshAZKr86AFy00tDr8Lxtu1nd/vendas_por_regiao.png?o=Aj-N3sZdpmMeD4iJcgsTCXTX3SGJ-0YryePEMamXLuZO&v=1&x=3&a=CAogTWykEveZFW5qsq7DNMzTgsVDt0l0NFHNGdTF9eK3TykSbxCq66mXuTIYqsiFmbkyIgEAUgTXzqIwWgRtu1ndaiczOpgc2kfnBtXD4K-I1dda9rvNjsYEE_-KlLrZvnBvWQnZ-VvLKsFyJyOlPqvEOPsYOsmAA3UVGVxqMfZADCG-DaZpwHUk3fRXIiyijVttKA&e=1733340259&fl=&r=0668f7df-72ad-4f6b-b66a-59c33f1d25b4-1&k=K_VlRgMSpW6CaNOP875cHQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=_re_T7PRhhiwvF87-2bOtGEtqP0&cd=i" alt="Produto mais vendido por região">
+
+
+### Clientes que mais gastaram nos últimos 12 meses
+<img src="https://cvws.icloud-content.com/B/AV_bH9EB52pfavqvZGc8bMLTjDFHAQkGmokSnRXBZ1Vy1wzBmq-4zztC/clientes_maiores_gastos.png?o=As9JgySkC7arjjiH1DWNhkvUw4jqpcpc3czgvWehDz60&v=1&x=3&a=CAoguhhAT7UhnRMU0J4KCnv4b2RdHX0EsNVvKPPzCenSAQcSbxDy2qmXuTIY8reFmbkyIgEAUgTTjDFHWgS4zztCaif5cK3_uxLcTLqDWNqeGT_CuJeLtFbkk1vkTv6iG3OSz0QyF5PxxrVyJwdArbdLwDvY8dvaN7PLkA9PbTgHERFWlJAxVf_qD33eVpKqM1c6vw&e=1733340257&fl=&r=4cc3f53b-22a7-4ba0-a487-cfd216e7a398-1&k=7hKUih3szO1Wc4m22KVD1Q&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=K_ZE7p2cPg7fdlVBhJawdVQ7xYY&cd=i" alt="Clientes que mais gastaram nos últimos 12 meses">
