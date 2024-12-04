@@ -32,5 +32,7 @@ cd std_vendas
 
 # 📊 Exemplos de Insights
 
-### SQL
-![Produto mais vendido por região](https://www.icloud.com/iclouddrive/07dT4aOnchIquIAEhogtzIDNg#vendas_por_regiao)
+## SQL
+
+### Produto mais vendido por região
+<img src="https://www.icloud.com/iclouddrive/07dT4aOnchIquIAEhogtzIDNg#vendas_por_regiao" alt="Produto mais vendido por região">
