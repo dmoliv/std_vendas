@@ -40,3 +40,7 @@ cd std_vendas
 
 ### Clientes que mais gastaram nos últimos 12 meses
 <img src="https://cvws.icloud-content.com/B/AV_bH9EB52pfavqvZGc8bMLTjDFHAQkGmokSnRXBZ1Vy1wzBmq-4zztC/clientes_maiores_gastos.png?o=As9JgySkC7arjjiH1DWNhkvUw4jqpcpc3czgvWehDz60&v=1&x=3&a=CAoguhhAT7UhnRMU0J4KCnv4b2RdHX0EsNVvKPPzCenSAQcSbxDy2qmXuTIY8reFmbkyIgEAUgTTjDFHWgS4zztCaif5cK3_uxLcTLqDWNqeGT_CuJeLtFbkk1vkTv6iG3OSz0QyF5PxxrVyJwdArbdLwDvY8dvaN7PLkA9PbTgHERFWlJAxVf_qD33eVpKqM1c6vw&e=1733340257&fl=&r=4cc3f53b-22a7-4ba0-a487-cfd216e7a398-1&k=7hKUih3szO1Wc4m22KVD1Q&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=K_ZE7p2cPg7fdlVBhJawdVQ7xYY&cd=i" alt="Clientes que mais gastaram nos últimos 12 meses">
+
+### Determine o mês de maior faturamento e identifique os fatores
+#### indica uma venda em menor quantidade, porém em produtos com maior valor agregado
+<img src="https://cvws.icloud-content.com/B/AVzmHx-JfF4vY53JRq17tIPjatxdAZG9C1ok33Z_9UDJPhrRrbD-TD4M/mes_maior_fat.png?o=ApeWUr5Buu5ND1E7Oqw6KrbLTZ8fd5Ld6qBffD_mekDi&v=1&x=3&a=CAogjAQGJHpmVuje4MlohlCagXcxEgIYVHbJ_gH9-CTSz_QSbxDRtfWXuTIY0ZLRmbkyIgEAUgTjatxdWgT-TD4MaieidrUS3FPiohqc2MAIk_otQBol2PfuCsTb8qe1j4FVfllG-uP_ivZyJzqYIOca0k1lMoog6Nxu2JZY08JBcFG2QC08IcJAZ09HkCR_8IjS0w&e=1733341497&fl=&r=4241bcce-cc14-463b-a370-23c4a1c4a19d-1&k=ZxO0yuEw8fPY4NKbjFABhA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=pDmLMvOsZ5WHqRUvj3zF4V2qo8Y&cd=i" alt="Determine o mês de maior faturamento e identifique os fatores">
