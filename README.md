@@ -21,7 +21,7 @@ Neste projeto, você assume o papel de analista de dados e trabalha com diversas
 ├── README.md                 # Descrição do projeto
 ```
 
-# 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 Clone o repositório:
 
 ```bash
@@ -32,3 +32,5 @@ cd std_vendas
 
 # 📊 Exemplos de Insights
 
+### SQL
+![Produto mais vendido por região](https://www.icloud.com/iclouddrive/07dT4aOnchIquIAEhogtzIDNg#vendas_por_regiao)
