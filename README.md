@@ -37,8 +37,10 @@ git clone git@github.com:dmoliv/std_vendas.git
 cd std_vendas
 ```
 
-- 1. Configure uma instancia MySQL e crie o banco de dados com nome db_sales
-- 2. Configure uma instancia MongoDB 
+- Configure uma instancia MySQL e crie o banco de dados com nome db_sales
+- Execute os scripts **schema.sql** e **insert.sql** contidos no diretório data\mysql
+
+- Configure uma instancia MongoDB 
 
 ---
 
