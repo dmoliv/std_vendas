@@ -11,6 +11,7 @@ Neste projeto, você assume o papel de analista de dados e trabalha com diversas
 ## 🛠️ Tecnologias Utilizadas
 
 ### Infraestrutura
+- **VsCode**
 - **Ubuntu 24.04**
 - **MySQL**
 - **MongoDB**
@@ -55,6 +56,7 @@ ls -1 *.json | sed 's/.json$//' | while read col; do mongoimport -d petshop -c f
 ```bash
 pip install mysql-connector-python
 pip install pandas
+pip install pymongo
 ```
 
 ---

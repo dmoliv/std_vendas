@@ -1,8 +1,8 @@
 {
     "ID": 165,
-    "ClienteID": 84,
-    "ProdutoID": "P023",
-    "Nota": 3,
-    "Comentario": "Preço muito alto para a qualidade.",
-    "Data": "2024-10-02"
+    "ClienteID": 50,
+    "ProdutoID": "P025",
+    "Nota": 4,
+    "Comentario": "Excelente produto!",
+    "Data": "2024-03-02"
 }
