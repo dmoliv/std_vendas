@@ -11,6 +11,7 @@ Neste projeto, você assume o papel de analista de dados e trabalha com diversas
 ## 🛠️ Tecnologias Utilizadas
 
 ### Infraestrutura
+- **Ubuntu 24.04**
 - **MySQL**
 - **MongoDB**
 
@@ -46,7 +47,7 @@ cd std_vendas
 - 7. no servidor execute o comando para importar os documentos:
 ```bash
 cd /download/json
-ls -1 *.json | sed 's/.json$//' | while read col; do      mongoimport -d petshop -c feedback < $col.json;  done
+ls -1 *.json | sed 's/.json$//' | while read col; do mongoimport -d petshop -c feedback < $col.json; done
 ```
 
 ---
