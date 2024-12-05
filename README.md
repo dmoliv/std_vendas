@@ -38,9 +38,16 @@ cd std_vendas
 ```
 
 - 1. Configure uma instancia MySQL e crie o banco de dados com nome db_sales
-- Execute os scripts **schema.sql** e **insert.sql** contidos no diretório data\mysql
-
-- 2. Configure uma instancia MongoDB 
+- 2. Execute os scripts **schema.sql** e **insert.sql** contidos no diretório data\mysql
+- 3. Configure uma instancia MongoDB 
+- 4. No MongoDB crie um Database com nome 'petshop' e uma coleção com nome 'feedback'
+- 5. No servidor onde está instalado o MongoDB crie um diretório '/download/json'
+- 6. coloque todos os documentos contindos em data\json no diretório acima
+- 7. no servidor execute o comando para importar os documentos:
+```bash
+cd /download/json
+ls -1 *.json | sed 's/.json$//' | while read col; do      mongoimport -d petshop -c feedback < $col.json;  done
+```
 
 ---
 
