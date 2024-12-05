@@ -1,3 +1,5 @@
+use db_sales;
+
 -- INSERT DAS REGIOES
 
 INSERT INTO regiao (cod_regiao, nome_regiao) VALUES

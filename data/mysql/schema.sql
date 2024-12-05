@@ -1,3 +1,5 @@
+use db_sales;
+
 CREATE TABLE regiao(
 	cod_regiao INT,
 	nome_regiao VARCHAR(20),

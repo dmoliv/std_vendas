@@ -8,15 +8,23 @@ Neste projeto, você assume o papel de analista de dados e trabalha com diversas
 
 ---
 
+## 🛠️ Tecnologias Utilizadas
+
+### Infraestrutura
+- **MySQL**
+- **MongoDB**
+
+---
+
 ## 📁 Estrutura do Repositório
 
 ```bash
 ├── data/                     # Diretório de dados brutos
 │   ├── mysql/                # Schemas de criação das tabelas e insert dos dados
 │   ├── mongo/                # Exemplo de documentos NoSQL
-│   ├── csv_excel/            # Arquivos CSV e Excel
-├── notebooks/                # Notebooks Jupyter para análise
-├── scripts/                  # Scripts Python de ETL e análise
+│   ├── csv_excel/            # Arquivos CSV e Excel 
+├── scripts/                  # Diretório para scripts SQL/Bash
+│   ├── sql/                  # Scripts SQL para analise dos dados
 ├── outputs/                  # Relatórios e gráficos gerados
 ├── README.md                 # Descrição do projeto
 ```
@@ -29,6 +37,10 @@ git clone git@github.com:dmoliv/std_vendas.git
 cd std_vendas
 ```
 
+- 1. Configure uma instancia MySQL e crie o banco de dados com nome db_sales
+- 2. Configure uma instancia MongoDB 
+
+---
 
 # 📊 Exemplos de Insights
 
