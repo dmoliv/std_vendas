@@ -18,7 +18,18 @@ for colecao in colecoes:
 colecao = db['feedback']
 
 # Executar um find para obter todos os documentos
-documentos = colecao.find({"Nota": 5})
+#documentos = colecao.find({"Nota": 5})
+
+#soma das notas por produto
+documentos = colecao.aggregate([
+    { 
+        "$group": { 
+            "_id": "$ProdutoID", 
+            "total": { "$sum": "$Nota" } 
+        } 
+    }
+])
+
 
 # Iterar pelos documentos e exibi-los
 for doc in documentos:
