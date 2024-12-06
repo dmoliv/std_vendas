@@ -17,20 +17,24 @@ for colecao in colecoes:
 # Conectar à coleção
 colecao = db['feedback']
 
-# Executar um find para obter todos os documentos
-#documentos = colecao.find({"Nota": 5})
+# %%
 
-#soma das notas por produto
+# Determine as 5 maiores médias de avaliação dos produtos
 documentos = colecao.aggregate([
     { 
         "$group": { 
-            "_id": "$ProdutoID", 
-            "total": { "$sum": "$Nota" } 
+            "_id": "$ProdutoID",
+            "avg": { "$avg": "$Nota" } 
         } 
+    },
+    { 
+        "$sort": { "avg": -1 }  # Ordena pela média em ordem decrescente
+    },
+    { 
+        "$limit": 5  # Limita aos 5 primeiros resultados
     }
 ])
-
-
+     
 # Iterar pelos documentos e exibi-los
 for doc in documentos:
     print(doc)
