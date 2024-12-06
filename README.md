@@ -23,11 +23,8 @@ Neste projeto, você assume o papel de analista de dados e trabalha com diversas
 ```bash
 ├── data/                     # Diretório de dados brutos
 │   ├── mysql/                # Schemas de criação das tabelas e insert dos dados
-│   ├── mongo/                # Exemplo de documentos NoSQL
+│   ├── json/                 # Exemplo de documentos NoSQL
 │   ├── csv_excel/            # Arquivos CSV e Excel 
-├── scripts/                  # Diretório de scripts
-│   ├── views/                # views para criar no MySQL
-│   ├── bash/                 # scripts bash
 ├── notebooks/                # notebooks das analises dos dados
 ├── outputs/                  # Relatórios e gráficos gerados
 ├── README.md                 # Descrição do projeto
@@ -42,7 +39,7 @@ cd std_vendas
 ```
 
 - 1. Configure uma instancia MySQL e crie o banco de dados com nome db_sales
-- 2. Execute os scripts **schema.sql** e **insert.sql** contidos no diretório data\mysql
+- 2. Execute os scripts **schema.sql**, **insert.sql** e **views.sql** contidos no diretório data\mysql
 - 3. Configure uma instancia MongoDB 
 - 4. No MongoDB crie um Database com nome 'petshop' e uma coleção com nome 'feedback'
 - 5. No servidor onde está instalado o MongoDB crie um diretório '/download/json'
