@@ -80,4 +80,4 @@ pip install pymongo
 ## No-SQL
 
 ### 5 maiores médias de avaliação dos produtos
-<img src="https://www.icloud.com/iclouddrive/078uPyeSUVlqKSekyxlIGrDCQ#5_maiores_medias_feedback" alt="5 maiores médias de avaliação dos produtos">
+<img src="https://cvws.icloud-content.com/B/AazFu0vVTseFJfMcwTBwjK2h78xPAan5vsPn2wmbBHEZj5OB1TAs5nvB/5_maiores_medias_feedback.png?o=Apnz-zlq7W4mGNZFnxxqZaAeL0N4Qs6-ap2JlD884x_p&v=1&x=3&a=CAogjmnU0rGOifKAGz49l4Dy4v1yGKvRaZ6cqeWwnMpseq4SbxDPyonfuTIYz6fl4LkyIgEAUgSh78xPWgQs5nvBaieQVIza1lEt9ssE24Af993XJ_9WuEsG8PXWshSeFvcNUcteOcryZ51yJ1t_pQ-h2Co_SGblmb6L5Fd_TudVviezGFtGcwGVJxUBqufZFIVKZg&e=1733490725&fl=&r=176b1ff0-529b-42dc-9069-138ad269f8ab-1&k=MDkKNGi2KHAuuPH6twA4Ng&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=D7G0kreVjYyR7cBt9hiKOegNgtQ&cd=i" alt="5 maiores médias de avaliação dos produtos">
