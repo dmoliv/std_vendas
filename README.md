@@ -54,6 +54,7 @@ ls -1 *.json | sed 's/.json$//' | while read col; do mongoimport -d petshop -c f
 pip install mysql-connector-python
 pip install pandas
 pip install pymongo
+pip install matplotlib
 ```
 
 ---
