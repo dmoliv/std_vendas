@@ -24,7 +24,7 @@ Neste projeto, você assume o papel de analista de dados e trabalha com diversas
 ├── data/                     # Diretório de dados brutos
 │   ├── mysql/                # Schemas de criação das tabelas e insert dos dados
 │   ├── json/                 # Exemplo de documentos NoSQL
-│   ├── csv_excel/            # Arquivos CSV e Excel 
+│   ├── csv/                  # Arquivos CSV
 ├── notebooks/                # notebooks das analises dos dados
 ├── outputs/                  # Relatórios e gráficos gerados
 ├── README.md                 # Descrição do projeto
