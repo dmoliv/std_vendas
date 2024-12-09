@@ -63,32 +63,32 @@ pip install matplotlib
 
 ## SQL
 
-### Produto mais vendido por região
+#### Produto mais vendido por região
 <img src="https://i.ibb.co/xJkfWGR/vendas-por-regiao.png" width="600" height="200" alt="Produto mais vendido por região">
 
 
-### Clientes que mais gastaram nos últimos 12 meses
+#### Clientes que mais gastaram nos últimos 12 meses
 <img src="https://i.ibb.co/3spbktg/vendas-por-clientes.png" width="200" height="150" alt="Clientes que mais gastaram nos últimos 12 meses">
 
-### Mês de maior faturamento e identifique os fatores
+#### Mês de maior faturamento e identifique os fatores
 ###### indica o mês 2 com vendas em menor quantidade, porém em produtos com maior valor agregado
 <img src="https://i.ibb.co/dJjv3BD/venda-maior-periodo.png" width="250" height="100" alt="Mês de maior faturamento e identifique os fatores">
 
 
 ## No-SQL
 
-### 5 maiores médias de avaliação dos produtos
+#### 5 maiores médias de avaliação dos produtos
 <img src="https://i.ibb.co/5GGBKnW/5-maiores-medias-feedback.png" width="300" height="150" alt="5 maiores médias de avaliação dos produtos">
 
-### 2 palavras mais comuns em feedbacks positivos
+#### 2 palavras mais comuns em feedbacks positivos
 <img src="https://i.ibb.co/G5DBdg5/palavras-comuns.png" width="300" height="50" alt="2 palavras mais comuns em feedbacks positivos">
 
 
 ## Pandas
 
-### desvio entre metas e vendas realizadas
+#### desvio entre metas e vendas realizadas
 <img src="https://i.ibb.co/XS1dwZr/desvio.png" width="300" height="150" alt="desvio entre metas e vendas realizadas">
 
-### Gráfico 5 produtos que ainda não bateram meta anual
+#### Gráfico 5 produtos que ainda não bateram meta anual
 <img src="https://i.ibb.co/P9bj6Ww/output.png" width="600" height="300" alt="Gráfico 5 produtos que ainda não bateram meta anual">
 
