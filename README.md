@@ -9,7 +9,7 @@ Este foi um projeto elaborado pelo ChatGPT, para que eu pudesse treinar habilida
 Você será um analista de dados encarregado de integrar, analisar e gerar insights a partir de dados globais de vendas de uma empresa fictícia. O objetivo principal é consolidar informações de diferentes fontes (bancos relacionais, bancos NoSQL e arquivos CSV/Excel) e responder perguntas cruciais sobre o desempenho da empresa.
 
 Faça o download do desafio completo elaborado pelo GPT clicando neste link:
-<a href='https://www.freecodecamp.org/'><button>Link para o freeCodeCamp</button></a>
+<a href='https://www.icloud.com/iclouddrive/05fIS1uRk1LNv2WuaSC1yuVEw#Projeto/'><button>Download</button></a>
 
 ---
 
@@ -61,6 +61,7 @@ pip install pandas
 pip install pymongo
 pip install matplotlib
 ```
+- 9. Execute os notebooks
 
 ---
 
