@@ -1,4 +1,4 @@
-# 📊 Projeto de Análise de Dados STD - Desempenho de Vendas Pet Shop
+# 📊 Projeto - Desempenho de Vendas Pet Shop
 
 Bem-vindo!
 
