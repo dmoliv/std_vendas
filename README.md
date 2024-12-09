@@ -77,4 +77,7 @@ pip install pymongo
 ## No-SQL
 
 ### 5 maiores médias de avaliação dos produtos
-<img src="https://cvws.icloud-content.com/B/AazFu0vVTseFJfMcwTBwjK2h78xPAan5vsPn2wmbBHEZj5OB1TAs5nvB/5_maiores_medias_feedback.png?o=Apnz-zlq7W4mGNZFnxxqZaAeL0N4Qs6-ap2JlD884x_p&v=1&x=3&a=CAogjmnU0rGOifKAGz49l4Dy4v1yGKvRaZ6cqeWwnMpseq4SbxDPyonfuTIYz6fl4LkyIgEAUgSh78xPWgQs5nvBaieQVIza1lEt9ssE24Af993XJ_9WuEsG8PXWshSeFvcNUcteOcryZ51yJ1t_pQ-h2Co_SGblmb6L5Fd_TudVviezGFtGcwGVJxUBqufZFIVKZg&e=1733490725&fl=&r=176b1ff0-529b-42dc-9069-138ad269f8ab-1&k=MDkKNGi2KHAuuPH6twA4Ng&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=D7G0kreVjYyR7cBt9hiKOegNgtQ&cd=i" alt="5 maiores médias de avaliação dos produtos">
+<img src="https://cvws.icloud-content.com/B/AazFu0vVTseFJfMcwTBwjK2h78xPAan5vsPn2wmbBHEZj5OB1TAs5nvB/5_maiores_medias_feedback.png?o=ArAaQlwf4L9Vnd4utUwk_dos3PAdLqHm6bkUhzQsBgWE&v=1&x=3&a=CAogV-8Snj8CAL-H6O_EyhCUrswetEQsYa7qJSaYU45apuoSbxCzg-zZujIYs-DH27oyIgEAUgSh78xPWgQs5nvBaifCvw1wTPcZ0U_mDQYBl2B8dh5sYJ1ZorBZGkDiV2jBH3UTaHycztlyJyVdZOv3PxK7_j3aPy-C6Ug98sRMh8tR0eANBZBcVStny7JH5kzKSg&e=1733748191&fl=&r=a44df1fb-2b3c-4e49-8ff4-b99061fc2fe1-1&k=MDkKNGi2KHAuuPH6twA4Ng&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=107&s=1QjvEYN4QoTXD-bcn3eySzrqcVQ&cd=i" alt="5 maiores médias de avaliação dos produtos">
+
+### 2 palavras mais comuns em feedbacks positivos
+<img src="https://drive.google.com/file/d/1R9036Z63mxyREHi3zOD4qO7uY7Er11IG/view?usp=drive_link" alt="2 palavras mais comuns em feedbacks positivos">

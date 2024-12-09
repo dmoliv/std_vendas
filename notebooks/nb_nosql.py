@@ -38,3 +38,24 @@ documentos = colecao.aggregate([
 # Iterar pelos documentos e exibi-los
 for doc in documentos:
     print(doc)
+
+
+# %%
+
+# Identifique 2 palavras mais comuns em feedbacks positivos (rating >= 4)
+
+# Biblioteca para contar as ocorrências de palavras
+from collections import Counter
+
+# Filtrar os documentos com Nota >= 4
+documentos = colecao.find({"Nota": {"$gte": 4}})
+
+contador_palavras = Counter() # inicializa contador
+for doc in documentos:
+    comentario = doc.get("Comentario", "")  # Pegar o campo 'Comentario'
+    palavras = comentario.split()  # Dividir o texto em palavras
+    contador_palavras.update(palavras)  # Atualizar o contador com as palavras
+
+# Mostrar as 2 palavras mais comuns
+palavras_comuns = contador_palavras.most_common(2)
+palavras_comuns
