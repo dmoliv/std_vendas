@@ -90,5 +90,5 @@ pip install matplotlib
 <img src="https://i.ibb.co/XS1dwZr/desvio.png" width="300" height="150" alt="desvio entre metas e vendas realizadas">
 
 ### Gráfico 5 produtos que ainda não bateram meta anual
-<img src="https://i.ibb.co/P9bj6Ww/output.png" width="600" height="600" alt="Gráfico 5 produtos que ainda não bateram meta anual">
+<img src="https://i.ibb.co/P9bj6Ww/output.png" width="600" height="300" alt="Gráfico 5 produtos que ainda não bateram meta anual">
 
