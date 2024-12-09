@@ -35,7 +35,7 @@ df
 
 # %%
 
-#  Descubra o produto mais vendido por cliente.
+#  Clientes que mais gastaram nos ultimos 12 meses
 query = """
     select a.cod_cliente, b.nom_cliente, sum(a.quantidade*c.preco) as val_tot 
     from vendas a
