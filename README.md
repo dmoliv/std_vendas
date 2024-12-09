@@ -72,7 +72,7 @@ pip install matplotlib
 
 ### Mês de maior faturamento e identifique os fatores
 ###### indica o mês 2 com vendas em menor quantidade, porém em produtos com maior valor agregado
-<img src="https://i.ibb.co/dJjv3BD/venda-maior-periodo.png" width="250" height="50" alt="Mês de maior faturamento e identifique os fatores">
+<img src="https://i.ibb.co/dJjv3BD/venda-maior-periodo.png" width="250" height="100" alt="Mês de maior faturamento e identifique os fatores">
 
 
 ## No-SQL
