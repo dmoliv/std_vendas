@@ -39,7 +39,7 @@ Faça o download do desafio completo elaborado pelo GPT clicando neste link:
 Clone o repositório:
 
 ```bash
-git clone git@github.com:dmoliv/std_vendas.git
+git clone https://github.com/dmoliv/std_vendas.git
 cd std_vendas
 ```
 
