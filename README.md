@@ -15,7 +15,6 @@ Faça o download do desafio completo elaborado pelo GPT clicando neste link:
 
 ## 🛠️ Tecnologias Utilizadas
 
-### Infraestrutura
 - **VsCode**
 - **Ubuntu 24.04**
 - **MySQL**
