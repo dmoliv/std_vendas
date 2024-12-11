@@ -26,8 +26,8 @@ Faça o download do desafio completo elaborado pelo GPT clicando neste link:
 
 ```bash
 ├── data/                     # Diretório de dados brutos
-│   ├── mysql/                # Schemas de criação das tabelas e insert dos dados
-│   ├── json/                 # Exemplo de documentos NoSQL
+│   ├── mysql/                # Schemas de criação das tabelas relacionais e insert dos dados
+│   ├── json/                 # Exemplo de documentos json para o MongoDB
 │   ├── csv/                  # Arquivos CSV
 ├── notebooks/                # notebooks das analises dos dados
 ├── outputs/                  # Relatórios e gráficos gerados
@@ -53,7 +53,7 @@ cd std_vendas
 cd /download/json
 ls -1 *.json | sed 's/.json$//' | while read col; do mongoimport -d petshop -c feedback < $col.json; done
 ```
-- 8. instale as bibliotecas pandas e mysql conenctor
+- 8. instale as bibliotecas:
 ```bash
 pip install mysql-connector-python
 pip install pandas
